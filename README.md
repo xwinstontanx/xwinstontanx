@@ -1,6 +1,5 @@
 <h1>Hello, I'm Winston</h1>
-<h2>💻Software Engineer</h2>
-
+<h2>💻Software Engineer💻</h2>
 <hr>
 
 <h3>How to reach me:</h3>
