@@ -27,7 +27,6 @@
    <img src="https://img.shields.io/badge/nuxt%20-%23F7DF1E.svg?&style=for-the-badge&color=6FC78F" />&nbsp;&nbsp; -->
    <img src="https://img.shields.io/badge/eslint%20-%23F7DF1E.svg?&style=for-the-badge&color=8080F2" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/web%20components%20-%23F7DF1E.svg?&style=for-the-badge&color=E06027" />&nbsp;&nbsp;
-   <br />
 <!--    <img src="https://img.shields.io/badge/webpack%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Gulp.js%20-%23F7DF1E.svg?&style=for-the-badge&color=DA4648" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Electron%20-%23F7DF1E.svg?&style=for-the-badge&color=5E8E98" />&nbsp;&nbsp;
