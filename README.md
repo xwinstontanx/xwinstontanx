@@ -18,8 +18,8 @@
    <img src="https://img.shields.io/badge/Angular%20-%23F7DF1E.svg?&style=for-the-badge&color=DD0031" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/LoraWan%20-%23F7DF1E.svg?&style=for-the-badge&color=FF3E00" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?&style=for-the-badge&color=115B9A" />&nbsp;&nbsp;
-<!--    <img src="https://img.shields.io/badge/handlebarsjs%20-EA762A.svg?&style=for-the-badge&color=FBDDA9" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/jest%20-%23F7DF1E.svg?&style=for-the-badge&color=74C417" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Google Cloud Platform%20-EA762A.svg?&style=for-the-badge&color=FBDDA9" />&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/jest%20-%23F7DF1E.svg?&style=for-the-badge&color=74C417" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/mocha%20-%23F7DF1E.svg?&style=for-the-badge&color=8D6748" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/socket.io%20-%23F7DF1E.svg?&style=for-the-badge&color=5776A2" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/next.js%20-%23F7DF1E.svg?&style=for-the-badge&color=000000" />&nbsp;&nbsp;
@@ -88,4 +88,11 @@
 ### ✔  Ubuntu, Linux, Raspberry Pi
 ### ✔  Windows
 
+<hr>
+
+
+### Skills Badge 💻
+
+### ✔  Qwiklabs: https://www.qwiklabs.com/public_profiles/aee59016-748b-4093-84dd-227b65d9ba35
+### ✔  Professional Scrum Master I (PSM I): https://www.scrum.org/user/304555
 <hr>
