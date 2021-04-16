@@ -99,7 +99,7 @@
 
 ### ✔  https://www.providencesolutions.net/
 ### ✔  https://www.yong-en.org.sg/
-### ✔  https://www.senzecare.com/recycle/
+### ✔  https://www.senzecare.com/
 ### ✔  https://www.senzecare.com/2019/
 ### ✔  https://www.senzecare.com/sg/
 ### ✔  https://www.partnerhr.asia/
