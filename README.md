@@ -77,25 +77,25 @@
 
 ### About 📌
 
-### ✔  **Domain :** Full-Stack Web Development 💻
+### ✔  **Domain :** Full-Stack Web Development
 ### ✔  **Skills :** Javascript, Vue.js, ReactJs, Angular, Node.js, MongoDB, Mysql, PHP, Python, Java
 
 <hr>
 
-### O.S 💻
+### O.S 
 
 ### ✔  Ubuntu, Linux, Raspberry Pi
 ### ✔  Windows
 
 <hr>
 
-### Skills Badge 💻
+### Skills Badge
 
 ### ✔  Qwiklabs: https://www.qwiklabs.com/public_profiles/aee59016-748b-4093-84dd-227b65d9ba35
 ### ✔  Professional Scrum Master I (PSM I): https://www.scrum.org/user/304555
 <hr>
 
-### Past Developed Websites 💻
+### Past Developed Websites
 
 ### ✔  https://www.providencesolutions.net/
 ### ✔  https://www.yong-en.org.sg/
