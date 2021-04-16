@@ -73,7 +73,6 @@
    <img src="https://img.shields.io/badge/Travis CI%20-%23F7DF1E.svg?&style=for-the-badge&color=CD324A" />&nbsp;&nbsp;
 </p> 
 
-
 <hr>
 
 ### About 📌
@@ -90,9 +89,18 @@
 
 <hr>
 
-
 ### Skills Badge 💻
 
 ### ✔  Qwiklabs: https://www.qwiklabs.com/public_profiles/aee59016-748b-4093-84dd-227b65d9ba35
 ### ✔  Professional Scrum Master I (PSM I): https://www.scrum.org/user/304555
+<hr>
+
+### Past Developed Websites 💻
+
+### ✔  https://www.providencesolutions.net/
+### ✔  https://www.yong-en.org.sg/
+### ✔  https://www.senzecare.com/recycle/
+### ✔  https://www.senzecare.com/2019/
+### ✔  https://www.senzecare.com/sg/
+### ✔  https://www.partnerhr.asia/
 <hr>
