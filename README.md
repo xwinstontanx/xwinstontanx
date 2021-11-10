@@ -91,6 +91,6 @@
 
 ### Skills Badge
 
-### ✔  Qwiklabs: https://www.qwiklabs.com/public_profiles/aee59016-748b-4093-84dd-227b65d9ba35
+### ✔  Google Cloud Skills Boost: https://www.cloudskillsboost.google/public_profiles/aee59016-748b-4093-84dd-227b65d9ba35
 ### ✔  Professional Scrum Master I (PSM I): https://www.scrum.org/user/304555
 <hr>
